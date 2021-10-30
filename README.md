@@ -1,3 +1,5 @@
+[![Test Python Code](https://github.com/medhavrata/multi-cloud/actions/workflows/testci.yml/badge.svg)](https://github.com/medhavrata/multi-cloud/actions/workflows/testci.yml)
+
 # multi-cloud
 This Repo is to develop code and then execute on multi-cloud environment. Works with AWS, Azure and GCP
 
